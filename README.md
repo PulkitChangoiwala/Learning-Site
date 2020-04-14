@@ -3,6 +3,4 @@
 
 
 
-
-
-Learning Web Dev.
+Website with various learning courses.
